@@ -1,0 +1,9 @@
+Accuracy: 0.6363636363636364
+Nodes: 200
+Nodes 2: 200
+Epoch: 75
+Activation: tanh
+Activation 2: tanh
+MBS: 20
+Length: 25
+Learning Rate: 0.0001

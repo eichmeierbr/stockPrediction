@@ -1,0 +1,11 @@
+(S'ann'
+p0
+I25
+F0.0001
+(lp1
+S'linear'
+p2
+a(lp3
+I500
+atp4
+.

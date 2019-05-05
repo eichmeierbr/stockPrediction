@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ubuntu/Documents/project2/nets/ann/threeLayer/ann3Layer_25V20.pck"
+all_model_checkpoint_paths: "/home/ubuntu/Documents/project2/nets/ann/threeLayer/ann3Layer_25V20.pck"

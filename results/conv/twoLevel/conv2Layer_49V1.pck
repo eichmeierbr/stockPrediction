@@ -1,0 +1,13 @@
+(S'conv'
+p0
+I49
+F0.001
+(lp1
+S'linear'
+p2
+ag2
+a(lp3
+I5
+aI15
+atp4
+.

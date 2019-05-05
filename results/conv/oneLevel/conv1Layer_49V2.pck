@@ -1,0 +1,11 @@
+(S'conv'
+p0
+I49
+F0.001
+(lp1
+S'relu'
+p2
+a(lp3
+I20
+atp4
+.

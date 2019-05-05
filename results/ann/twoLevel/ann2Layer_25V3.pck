@@ -1,0 +1,13 @@
+(S'ann'
+p0
+I25
+F0.0001
+(lp1
+S'tanh'
+p2
+ag2
+a(lp3
+I200
+aI200
+atp4
+.

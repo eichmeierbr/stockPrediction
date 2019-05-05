@@ -1,0 +1,9 @@
+Accuracy: 0.7027027027027027
+Nodes: 5
+Nodes 2: 20
+Epoch: 60
+Activation: sigmoid
+Activation 2: sigmoid
+MBS: 10
+Length: 49
+Learning Rate: 0.01

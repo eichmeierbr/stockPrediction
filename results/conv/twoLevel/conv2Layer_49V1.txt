@@ -1,0 +1,9 @@
+Accuracy: 0.7567567567567568
+Nodes: 5
+Nodes 2: 15
+Epoch: 60
+Activation: linear
+Activation 2: linear
+MBS: 20
+Length: 49
+Learning Rate: 0.001

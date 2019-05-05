@@ -1,0 +1,11 @@
+Accuracy: 0.7272727272727273
+Nodes: 5
+Nodes 2: 10
+Nodes 3: 17
+Epoch: 60
+Activation: relu
+Activation 2: relu
+Activation 3: relu
+MBS: 10
+Length: 25
+Learning Rate: 0.01

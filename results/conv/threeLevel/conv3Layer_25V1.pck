@@ -1,0 +1,15 @@
+(S'conv'
+p0
+I25
+F0.01
+(lp1
+S'relu'
+p2
+ag2
+ag2
+a(lp3
+I5
+aI10
+aI17
+atp4
+.
