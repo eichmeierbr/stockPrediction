@@ -1,6 +1,6 @@
-#### Author: Braden Eichmeier
-#### Date: December 6, 2018
-#### Course: CS 5600
+Author: Braden Eichmeier <br />
+Date: December 6, 2018 <br />
+Course: CS 5600 <br />
 
 
 # Introduction:
@@ -24,7 +24,7 @@ If you want to play with the functions, I recommend you enter the
 starter.py file. Both files use simplified wrapper functions to 
 run the project.
 
-NOTE:   
+**NOTE:**  
 The Yahoo Finance API has a bug in the code that causes all functionality to fail occassionaly. This bug only occurs in about 20% of the calls to the API.
 
 If the code fails from this bug, you will see this:
