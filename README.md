@@ -78,9 +78,9 @@ This file contains a simple function to saave the parameters in a network. This 
 
 ### starter.py
 This file contains 3 functions:
-            1) Perform cyclic training on desired hyperparameters
-            2) Make a prediction from a saved network
-            3) Train a single network
+  1) Perform cyclic training on desired hyperparameters
+  2) Make a prediction from a saved network
+  3) Train a single network
 
 When running this file, please ensure the parameters in the first two sections are set correctly. Instructions are given in the file.
 
